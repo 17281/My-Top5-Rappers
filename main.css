@@ -1,7 +1,7 @@
 
 .description {
    font-family:  "Lato", sans-serif;
-   -webkit- column-fill: balance;
+   column-fill: balance;
 }
 
 .name{
