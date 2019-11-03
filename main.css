@@ -18,3 +18,9 @@
     background: rgb(213, 215, 240);
     align-content: center;
 }
+
+.save{
+    font-family: chiller;
+    font-size: 30px;
+    color: red
+}
